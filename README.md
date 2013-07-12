@@ -2,7 +2,7 @@
 
 > 整理网络上的关于laravel一些资源方便学习和开发。
 
-* [Laravel 学习资源](https://github.com/huanghua581/laravel/laravel-learning-resources.md)
+* [Laravel 学习资源](https://github.com/huanghua581/laravel/blob/master/laravel-learning-resources.md)
 
 # Laravel 中文资源 [常用]
 
